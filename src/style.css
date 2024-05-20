@@ -1,0 +1,27 @@
+.section-1{
+    background-image: url('../assets/image1.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+
+}
+.section-2{
+    background-image: url('../assets/pexels-cottonbro-7319358.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+
+}
+.section-3{
+    background-image: url('../assets/pexels-pixabay-161963.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+
+}
+.section-4{
+    background-image: url('../assets/pexels-souvenirpixels-1542495.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
