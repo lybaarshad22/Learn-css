@@ -48,3 +48,9 @@
     background-size: 100% 100%;
 
 }
+.list{
+   
+    list-style-image: url('../assets/shopping-cart.png');
+ 
+    list-style-position: inside;
+}
